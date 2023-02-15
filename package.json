@@ -1,0 +1,18 @@
+{
+  "name": "watching-discord-rpc",
+  "version": "1.0.0",
+  "description": "Discord RPC By HackTheAir",
+  "main": "src/rpc.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Hackx2",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rpc": "^4.0.1",
+    "dotenv": "^16.0.1",
+    "electron": "^23.0.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
